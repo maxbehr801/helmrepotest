@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   console-worker-chart:
   - apiVersion: v2
-    appVersion: 0.1.0
-    created: "2023-09-01T14:00:05.5954236+02:00"
+    appVersion: 0.0.2
+    created: "2023-09-01T14:39:42.1309831+02:00"
     description: A Helm chart for Kubernetes
-    digest: 0d61f0e7183a7b600ef5c70203c108012f86deed2ab0590f479bf15509c19d3e
+    digest: bf3f7cbca2a1624c9a80195c42a7f1f697f0027688b3baf94423a4527978c8aa
     name: console-worker-chart
     type: application
     urls:
-    - https://maxbehr801.github.io/helmrepotest/console-worker-chart-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-09-01T14:00:05.5917063+02:00"
+    - https://maxbehr801.github.io/helmrepotest/console-worker-chart-0.0.2.tgz
+    version: 0.0.2
+generated: "2023-09-01T14:39:42.129299+02:00"
